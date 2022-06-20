@@ -1,17 +1,18 @@
 # Markdown
 ## Summary  
-This is the doc I wrote to learn dsp28335
+This is the doc I wrote to learn markdown
 ---
-www.github.com  
-## hi
+## 二级标题
 ```
-hello
+hello  
+文本高亮
 ```  
 ## Cite
 > www.510Akou.com 
 
 `
-cout<<hello<<endl 
+cout<<hello<<endl  
+代码高亮
 `  
 *he*  
 **he**  
